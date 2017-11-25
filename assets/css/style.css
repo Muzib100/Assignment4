@@ -1,5 +1,17 @@
-body {
+/*body {
     background: url(assets/images/blue-sky.jpg) no-repeat;
+  }*/
+
+  .container {
+    width: full;
+    background: url(./assets/images/blue-sky.jpg) no-repeat;
+    margin: 0 auto;
+  }
+
+  .col-lg-4 {
+
+    margin-top: 20px;
+    background: gray;
   }
 
   .gem {
@@ -35,7 +47,7 @@ body {
     margin-top: 10px;
     height: 100px;
     width: 400px;
-    margin-left: 10px;
+    margin-left: 4px;
     display:inline-block;
   }
 
